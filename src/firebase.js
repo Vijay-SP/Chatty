@@ -1,12 +1,12 @@
 import firebase from 'firebase'
 
 const firebaseApp = firebase.initializeApp({
-    apiKey: "AIzaSyDUQgIEBu_PhwWQn5bYWzW39rNJRO8eyK8",
-    authDomain: "pizza-d9b3e.firebaseapp.com",
-    projectId: "pizza-d9b3e",
-    storageBucket: "pizza-d9b3e.appspot.com",
-    messagingSenderId: "369038231274",
-    appId: "1:369038231274:web:8b8c35fa8341e00f583993"
+  apiKey: "AIzaSyDhRwywV8Z2cEcR4z-wt9nnqyFngZGyIoA",
+  authDomain: "authy-14422.firebaseapp.com",
+  projectId: "authy-14422",
+  storageBucket: "authy-14422.appspot.com",
+  messagingSenderId: "955113671401",
+  appId: "1:955113671401:web:7c310e5406cf9e2a307e78"
 })
 
 const db = firebaseApp.firestore()
